@@ -204,7 +204,7 @@ function showGuidesTable(filteredData) {
 
         const row = document.createElement("tr");
         row.innerHTML = `
-            <td><img src="C:\Users\Диана\Desktop\Вуз\текущее\web\exam\img ex\гид 2.png" alt="Картинка профиля" class="img-fluid mb-2"></td>
+            <td><img src="img ex\гид 2.png" alt="Картинка профиля" class="img-fluid mb-2"></td>
             <td>${guide.name}</td>
             <td>${guide.language}</td>
             <td>${guide.workExperience}</td>
